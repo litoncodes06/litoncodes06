@@ -1,103 +1,126 @@
-👋 Hi, I'm Liton Miah
+⚡ Hey, I'm Liton Miah
 
-B.Tech CSE Student | AI & ML Enthusiast | Aspiring Software Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+%F0%9F%8E%93;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Future+Software+Engineer+%F0%9F%92%BB;Building+%7C+Learning+%7C+Creating+%F0%9F%9A%80" /><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
+</p>---
 
-I'm a first-year B.Tech Computer Science & Engineering student passionate about technology, programming, artificial intelligence, and building useful projects.
+🧑‍💻 About Me
 
-I'm currently focused on strengthening my fundamentals and turning what I learn into practical projects.
+name: Liton Miah
+education: B.Tech Computer Science & Engineering
+focus:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software Development
+  - Web Development
 
----
+currently_learning:
+  - C/C++
+  - Python
+  - Data Structures & Algorithms
+  - Web Development
+  - Machine Learning
 
-🚀 About Me
-
-- 🎓 B.Tech CSE Student
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 💻 Learning Programming & Software Development
-- 🌱 Currently improving my DSA, Web Development & CS fundamentals
-- 🔨 Building projects to gain practical experience
-- 🎯 Goal: Become a skilled software engineer and build a strong career in tech
-
----
-
-🛠️ Skills & Technologies
-
-Programming
-
-- Python
-- C
-- C++
-- JavaScript
-
-Web Development
-
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
-
-Currently Learning
-
-- Data Structures & Algorithms
-- Machine Learning
-- Backend Development
-- Databases
-- Software Development
+goal: "Become a highly skilled Software Engineer 🚀"
 
 ---
 
-📌 Projects
+⚡ Tech Stack
 
-Here are some of the projects I'm working on and learning from:
+<p align="center"><img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,github,vscode,mysql" /></p>---
 
-Project| Description| Technologies
-🔨 Project 1| Coming soon...| —
-🔨 Project 2| Coming soon...| —
-🔨 Project 3| Coming soon...| —
+🚀 What I'm Working On
 
-More projects will be added as I continue learning.
+<table>
+<tr>
+<td width="50%">🤖 AI & ML
 
----
+Exploring the fundamentals of artificial intelligence and machine learning.
 
-📚 Learning Journey
+</td><td width="50%">💻 Development
 
-Programming Fundamentals
-        ↓
-Web Development
-        ↓
-Data Structures & Algorithms
-        ↓
-Backend Development
-        ↓
-Databases
-        ↓
-AI & Machine Learning
-        ↓
-Real-World Projects
+Building websites and applications while improving my programming fundamentals.
+
+</td>
+</tr><tr>
+<td width="50%">🧠 DSA
+
+Learning problem-solving and data structures one concept at a time.
+
+</td><td width="50%">🔨 Projects
+
+Turning what I learn into real-world projects.
+
+</td>
+</tr>
+</table>---
+
+📈 My Learning Journey
+
+        ┌────────────────────┐
+        │ Programming Basics │
+        └─────────┬──────────┘
+                  ↓
+        ┌────────────────────┐
+        │ Web Development    │
+        └─────────┬──────────┘
+                  ↓
+        ┌────────────────────┐
+        │ DSA & Problem      │
+        │ Solving            │
+        └─────────┬──────────┘
+                  ↓
+        ┌────────────────────┐
+        │ Backend & Database │
+        └─────────┬──────────┘
+                  ↓
+        ┌────────────────────┐
+        │ AI & Machine       │
+        │ Learning           │
+        └─────────┬──────────┘
+                  ↓
+        ┌────────────────────┐
+        │ 🚀 Real Projects   │
+        └────────────────────┘
 
 ---
 
 🎯 2026 Goals
 
-- [ ] Become comfortable with C/C++ and Python
-- [ ] Learn DSA properly
-- [ ] Build 5+ meaningful projects
-- [ ] Learn full-stack web development
-- [ ] Start working with Machine Learning
-- [ ] Contribute to open-source projects
-- [ ] Build a strong GitHub portfolio
+- [ ] Master C/C++ fundamentals
+- [ ] Get strong at Python
+- [ ] Learn DSA
+- [ ] Build 5+ real projects
+- [ ] Learn full-stack development
+- [ ] Start Machine Learning
+- [ ] Contribute to Open Source
+- [ ] Build an impressive developer portfolio
 
 ---
 
-📊 GitHub
+📊 GitHub Stats
 
-I'm using GitHub to document my learning journey, experiment with new technologies, and share the projects I build.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+</p>---
 
-Learning → Building → Improving → Repeating
+🐍 Contribution Snake
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>---
 
-🤝 Let's Connect
+🌐 Connect With Me
 
-I'm always interested in learning about new technologies, projects, and opportunities to collaborate.
+<p align="center"><a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a></p>---
 
-⭐ If you find something useful in my repositories, feel free to star it!
+<h3 align="center">⚡ Code. Learn. Build. Repeat.
+
+</h3><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
+</p>
